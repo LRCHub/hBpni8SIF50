@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Raw Flame",
+  "base_artist": "ALPHA DRIVE ONE",
+  "createdAt": "2026-03-12T18:25:23.621301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raw Flame",
+      "artist": "ALPHA DRIVE ONE",
+      "has_synced": true,
+      "path": "select/01_Raw_Flame_ALPHA_DRIVE_ONE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Raw Flame",
+      "artist": "ALPHA DRIVE ONE",
+      "has_synced": false,
+      "path": "select/pl_01_Raw_Flame_ALPHA_DRIVE_ONE.txt"
+    }
+  ]
+}
